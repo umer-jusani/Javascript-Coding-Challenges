@@ -24,4 +24,3 @@ const result = HastTagGenerator("my father name is ferooz haroon"); // #MyNameIs
 
 console.log("result:", result);
 
-// umer = Umer
